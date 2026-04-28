@@ -24,14 +24,14 @@ Malware is not only about viruses — companies preinstall it all the time.
     <td>
       <img
         align="left"
-       src="https://github-readme-stats-fast.vercel.app/api?username=ftz7&show_icons=true&theme=tokyonight&hide_border=true"
+       src="https://github-readme-stats-fast.vercel.app/api?username=epy7&show_icons=true&theme=tokyonight&hide_border=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-              src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ftz7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+              src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=epy7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
         alt="Github Top Languages stats"
       />
     </td>
@@ -47,7 +47,7 @@ Malware is not only about viruses — companies preinstall it all the time.
 <table align="center">
   <tr>
     <td>  
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ftz7&theme=tokyonight&hide_border=true&exclude_days=Sun&card_width=834" alt="GitHub Streak" /></a> 
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=epy7&theme=tokyonight&hide_border=true&exclude_days=Sun&card_width=834" alt="GitHub Streak" /></a> 
 </td>
   </tr>
 </table>
